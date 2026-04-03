@@ -2,3 +2,6 @@
 
 
 New Text content
+
+
+Some new string
